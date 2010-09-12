@@ -1,0 +1,1 @@
+node.default["boxbuilder_example_dependency_chef_config_key"] = "boxbuilder_example_dependency_chef_config_value"
